@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP iC-HGP
+D 200 MHz High-Side Laser Switch for up to 9 A
+K iC-HGP
+F https://ichaus.de/upload/pdf/HGP_datasheet_A2en.pdf
+$ENDCMP
+#
+#End Doc Library

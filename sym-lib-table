@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ToF_illumination_icHaus_LED-rescue)(type Legacy)(uri ${KIPRJMOD}/ToF_illumination_icHaus_LED-rescue.lib)(options "")(descr ""))
+  (lib (name myParts)(type Legacy)(uri ${KIPRJMOD}/myParts.lib)(options "")(descr ""))
+)

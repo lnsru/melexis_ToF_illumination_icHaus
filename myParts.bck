@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK20DN128VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 128 kB flash, 32 kB SRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP MK20DN32VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 32 kB flash, 8 kB SRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP MK20DN64VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 64 kB flash, 16 kB SRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP MK20DX128VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 128 kB flash/32 kB FlexNVM, 32 kB SRAM/2 kB FlexRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP MK20DX32VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 32 kB flash/32 kB FlexNVM, 8 kB SRAM/2 kB FlexRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP MK20DX64VFM5
+D Kinetis K20 series, 50-MHz/32-bit ARM Cortex-M4, 64 kB flash/32 kB FlexNVM, 16 kB SRAM/2 kB FlexRAM, USB FS Device/OTG, QFN-32
+K Kinetis KL27 ARM Cortex M4
+F http://www.nxp.com/docs/en/data-sheet/K20P32M50SF0.pdf
+$ENDCMP
+#
+$CMP iC-HGP
+D 200 MHz High-Side Laser Switch for up to 9 A
+K iC-HGP
+F https://ichaus.de/upload/pdf/HGP_datasheet_A2en.pdf
+$ENDCMP
+#
+#End Doc Library
