@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:ToF_illumination_icHaus_LED-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -101,7 +101,7 @@ U 1 1 5D18E085
 P 5150 5650
 F 0 "C10" H 5268 5696 50  0000 L CNN
 F 1 "10u" H 5268 5605 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-R_EIA-2012-12_Reflow" H 5188 5500 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1210" H 5188 5500 50  0001 C CNN
 F 3 "~" H 5150 5650 50  0001 C CNN
 	1    5150 5650
 	1    0    0    -1  
@@ -215,7 +215,7 @@ U 1 1 5D18BC2A
 P 4450 5650
 F 0 "C9" H 4568 5696 50  0000 L CNN
 F 1 "100u" H 4568 5605 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-R_EIA-2012-12_Reflow" H 4488 5500 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1210" H 4488 5500 50  0001 C CNN
 F 3 "~" H 4450 5650 50  0001 C CNN
 	1    4450 5650
 	1    0    0    -1  
@@ -269,7 +269,7 @@ U 1 1 5D1A4402
 P 7050 2900
 F 0 "C1" H 7168 2946 50  0000 L CNN
 F 1 "10u" H 7168 2855 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-R_EIA-2012-12_Reflow" H 7088 2750 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1210" H 7088 2750 50  0001 C CNN
 F 3 "~" H 7050 2900 50  0001 C CNN
 	1    7050 2900
 	1    0    0    -1  
