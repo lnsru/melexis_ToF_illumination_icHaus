@@ -1,0 +1,26 @@
+Drill report for C:\myGithub\melexis_ToF_illumination_icHaus\ToF_illumination_icHaus_LED.kicad_pcb
+Created on 8/25/2019 9:14:07 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ToF_illumination_icHaus_LED.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.25mm  0.010"  (313 holes)
+    T2  0.33mm  0.013"  (36 holes)
+    T3  1.00mm  0.039"  (14 holes)
+    T4  1.52mm  0.060"  (2 holes)
+
+    Total plated holes count 365
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T5  3.20mm  0.126"  (4 holes)
+
+    Total unplated holes count 4
